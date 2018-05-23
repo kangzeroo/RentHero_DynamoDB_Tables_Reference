@@ -8,7 +8,7 @@ const cors = require('cors')
 const app = express()
 
 // Database setup
-// const createTables = require('./DynamoDB/schema/communications/communications_history_table').createTables
+// const createTables = require('./DynamoDB/schema/reactions/reactions_table').createTables
 // createTables()
 
 // App setup
